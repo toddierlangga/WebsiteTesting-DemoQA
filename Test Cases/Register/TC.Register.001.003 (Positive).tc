@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do register with correctly format</description>
+   <name>TC.Register.001.003 (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efcb8a85-db17-443a-b95b-02cfd7e6a8fe</testCaseGuid>
+</TestCaseEntity>
