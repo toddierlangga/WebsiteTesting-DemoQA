@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do login with correct credential</description>
+   <name>TC.Login.002.001 (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b6ce6df-afd9-4c37-8271-c83aa3f35853</testCaseGuid>
+</TestCaseEntity>
