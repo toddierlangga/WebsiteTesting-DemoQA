@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Book Store Application</name>
+   <tag></tag>
+   <elementGuidId>cbaa0390-eba6-4466-b8f1-427689aba22a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e4ab37a-1ec0-4ba9-bb4c-2f0f64292388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Store Application</value>
+      <webElementGuid>da917557-0bc4-4901-b939-fe5e8ec0f70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]/div[1]</value>
+      <webElementGuid>7f36259f-549c-4fd0-b058-d1845b4645bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[6]/div</value>
+      <webElementGuid>7fb09f78-b16b-44f9-9f77-ccd7e4a0a68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactions'])[1]/following::div[2]</value>
+      <webElementGuid>f20e633a-78c1-472f-bbcd-b59866c2396d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Widgets'])[1]/following::div[7]</value>
+      <webElementGuid>152caf21-703f-484d-ba98-96d1e8ec6cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::div[4]</value>
+      <webElementGuid>99b5fbad-9e1d-4f4b-9948-2d2f08b3b9c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>c705ec69-347e-4cdf-a38a-e9103a014954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Book Store Application' or . = 'Book Store Application')]</value>
+      <webElementGuid>27d9a7a0-9a3e-4041-8f33-a44f39bf7245</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

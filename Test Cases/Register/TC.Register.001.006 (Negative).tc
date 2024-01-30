@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do register without check recaptcha</description>
+   <name>TC.Register.001.006 (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcf28b08-750a-4941-bd29-aa1ab3d85813</testCaseGuid>
+</TestCaseEntity>

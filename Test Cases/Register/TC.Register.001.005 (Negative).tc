@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do register without fill password</description>
+   <name>TC.Register.001.005 (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c140d916-2dbc-4f36-b66b-5e9f7dec30ed</testCaseGuid>
+</TestCaseEntity>
