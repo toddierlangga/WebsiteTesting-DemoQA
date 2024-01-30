@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>TC.Register.001.002 (Negative)</name>
+   <description>Do register without fill anything</description>
+   <name>TC.Register.001.008 (Negative)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>379abfba-3f9a-4591-aff7-909c2bb9ea06</testCaseGuid>

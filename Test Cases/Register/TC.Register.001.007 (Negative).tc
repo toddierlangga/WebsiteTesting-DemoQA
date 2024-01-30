@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Register without input symbol on password</description>
-   <name>TC.Register.001.001 (Negative)</name>
+   <name>TC.Register.001.007 (Negative)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b1840fdb-d8ec-4d8d-a148-7e051ecf78cc</testCaseGuid>
