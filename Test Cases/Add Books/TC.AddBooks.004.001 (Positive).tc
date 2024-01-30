@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do add some book</description>
+   <name>TC.AddBooks.004.001 (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f32a8a0a-65d1-4b1f-bb33-b4957938256e</testCaseGuid>
+</TestCaseEntity>
