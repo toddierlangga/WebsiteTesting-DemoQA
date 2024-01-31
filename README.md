@@ -1,5 +1,8 @@
 # DemoQA
 
+Notes:
+There are some features that are experiencing errors due to the inability to complete the recaptcha.
+
 > Documentation
 >>URL to Test: https://demoqa.com/<br>
 
